@@ -1,0 +1,14 @@
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+quadruped_robot\croutine.o: D:\InPrg\ProPrg\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+quadruped_robot\croutine.o: D:\InPrg\ProPrg\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+quadruped_robot\croutine.o: ../Inc/FreeRTOSConfig.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+quadruped_robot\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
